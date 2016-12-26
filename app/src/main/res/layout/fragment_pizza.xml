@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4"
+    android:layout_alignParentTop="true"
+    tools:context="com.example.yodgor777.maestro.PizzaFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessLeaf" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        tools:ignore="UselessLeaf" />
+
+
+
+
+    <TextView
+        android:textColor="#F00"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/classics"
+        android:text="@string/Classics"
+
+        />
+
+    <TextView
+        android:textColor="#F00"
+        android:id="@+id/number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/number"
+        android:paddingLeft="350dp"
+        tools:ignore="RtlHardcoded,RtlSymmetry" />
+
+
+
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="462dp"
+        android:text="@string/hello_blank_fragment" />
+
+
+
+</RelativeLayout>
