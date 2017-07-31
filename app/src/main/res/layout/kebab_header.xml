@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#efeded"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/HeaderName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:text="Kebab"
+        android:textColor="#ff000d"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/headerPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Accessories: Iceberg lettuce, tomato, red onion, fefferoni,(except pizza orders).Sauce: kebab sauce, beanrnaise sauce, garlic dressing."
+        android:textSize="20sp"
+        android:textStyle="italic" />
+</LinearLayout>

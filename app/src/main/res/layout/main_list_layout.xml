@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="#fff"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:weightSum="2">
+
+    <TextView
+        android:id="@+id/CatName"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.7"
+        android:gravity="center_vertical"
+        android:text="Clasic"
+        android:textColor="#b60615"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Price"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center_vertical"
+        android:text="65:-"
+        android:textColor="#b60615"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+</LinearLayout>

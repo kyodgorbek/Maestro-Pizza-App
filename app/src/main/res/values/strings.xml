@@ -7,7 +7,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="Classics">Classics</string>
     <string name="number">65:-</string>
-    <string name="CodeColor" >"#0000ff"</string>
+    <string name="CodeColor">"#0000ff"</string>
     <string name="suvio"><b>1.Vesuvio</b>
                          \n<u>-Ham.</u></string>
     <string name="ham">-Ham.</string>
@@ -15,4 +15,7 @@
                         \n-Ham,pineapple</string>
     <string name="tomaso">3.Tomaso
                        \n-Ham,shrimps</string>
+    <string name="openinghours">OPENING HOURS</string>
+    <string name="link">www.maestrovaxjo.se</string>
+    <string name="title_activity_find_us">Map</string>
 </resources>
