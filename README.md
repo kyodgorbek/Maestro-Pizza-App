@@ -3,7 +3,7 @@ Maestro Pizza App created for Linnaeus University students during my internship 
 
 ![Insert_Alt_Text_Here](https://user-images.githubusercontent.com/10762650/29023940-1f4ce08e-7b70-11e7-89cc-a2d14a9c9e11.png)
 
-https://user-images.githubusercontent.com/10762650/29024047-8a20cb14-7b70-11e7-8e92-c2d5583cbffa.png
+(https://user-images.githubusercontent.com/10762650/29024047-8a20cb14-7b70-11e7-8e92-c2d5583cbffa.png)
 
 https://user-images.githubusercontent.com/10762650/29024051-8e426cc0-7b70-11e7-888d-63a594750f02.png
 
